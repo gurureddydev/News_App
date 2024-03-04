@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134022657784",
+    "project_id": "news-app-63664",
+    "storage_bucket": "news-app-63664.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134022657784:android:dfc6cd6383eb998370ad0d",
+        "android_client_info": {
+          "package_name": "com.guru.newsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF2n-kg2DsToaeZGu-k5xPkqfQDDtD4sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

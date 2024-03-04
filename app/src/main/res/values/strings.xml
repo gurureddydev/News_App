@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="news">News</string>
+    <string name="search_news_ed">Search news</string>
+    <string name="icon">Icon</string>
+    <string name="all_category">All</string>
+    <string name="technology_category">Technology</string>
+    <string name="business_category">Business</string>
+    <string name="health_category">Health</string>
+    <string name="sports_category">Sports</string>
+    <string name="entertainment_category">Entertainment</string>
+    <string name="error_message">Error: %s</string>
+    <string-array name="news_categories">
+        <item>All</item>
+        <item>Technology</item>
+        <item>Business</item>
+        <item>Health</item>
+        <item>Sports</item>
+        <item>Entertainment</item>
+    </string-array>
+
+</resources>
